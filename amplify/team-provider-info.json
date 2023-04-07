@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-heartratemonitor-staging-33559-authRole",
+      "UnauthRoleArn": "arn:aws:iam::757156111371:role/amplify-heartratemonitor-staging-33559-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::757156111371:role/amplify-heartratemonitor-staging-33559-authRole",
+      "Region": "eu-central-1",
+      "DeploymentBucketName": "amplify-heartratemonitor-staging-33559-deployment",
+      "UnauthRoleName": "amplify-heartratemonitor-staging-33559-unauthRole",
+      "StackName": "amplify-heartratemonitor-staging-33559",
+      "StackId": "arn:aws:cloudformation:eu-central-1:757156111371:stack/amplify-heartratemonitor-staging-33559/fd33bff0-ceab-11ed-a490-06f6770e12b2",
+      "AmplifyAppId": "d1d3f1b6xafy1f"
+    }
+  }
+}
