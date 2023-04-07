@@ -1,0 +1,6 @@
+type HeartRateModel @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  data1: String
+  data2: String
+  data: String
+}
